@@ -1,8 +1,8 @@
 {
-  "name": "Portfolio de Rodrigo Garay",
+  "name": "gatsby-starter-hello-world",
   "private": true,
   "homepage": "https://github.com/7gary7/PortfolioRodrigoGaray",
-  "description": "Portfolio",
+  "description": "A simplified bare-bones starter for Gatsby",
   "version": "0.1.0",
   "license": "MIT",
   "scripts": {
