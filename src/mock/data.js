@@ -21,7 +21,7 @@ export const aboutData = {
   paragraphOne: 'Vivo en Comodoro Rivadavia (Chubut) junto a mi pareja.',
   paragraphTwo: 'Actualmente curso el tercer y último año de la carrera Analista Programador Universitario en la Universidad Nacional de la Patagonia San Juan Bosco que se encuentra en esta ciudad.',
   paragraphThree: 'Busco mi primer trabajo bajo relación de dependencia como programador full stack.',
-  resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
+  resume: 'https://drive.google.com/file/d/1qnJSnG_Oyxh2GDvedal6rX5TsDk6KuCH/view?usp=sharing', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
